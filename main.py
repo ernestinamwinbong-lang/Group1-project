@@ -5,7 +5,8 @@
 print("=== Welcome to our Git Collaboration Project ===")
 
 # TODO: Student 1 - import and call get_greeting() here
-
+from student_greeting import get_greeting
+print(get_greeting("Emmanuella"))
 # TODO: Student 2 - import and call add()/subtract() here
 
 # TODO: Student 3 - import and call celsius_to_fahrenheit() here
